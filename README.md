@@ -1,2 +1,0 @@
-# Age_IncrementDecrement_with_react_redux
-Created with CodeSandbox
